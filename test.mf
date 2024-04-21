@@ -1,0 +1,6 @@
+note
+    Here we're simply invoking something
+exec /bin/df
+exec /bin/date
+exec /usr/bin/bc
+    1 + 1
